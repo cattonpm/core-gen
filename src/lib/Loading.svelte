@@ -10,18 +10,18 @@
         </filter>
         
         <linearGradient id="cyberpunkGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#00ccff" />
-          <stop offset="100%" stop-color="#0066cc" />
+          <stop offset="0%" stop-color="#FFA500" />
+          <stop offset="100%" stop-color="#FF8C00" />
         </linearGradient>
         
         <linearGradient id="cyberpunkGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#4169E1" />
-          <stop offset="100%" stop-color="#00BFFF" />
+          <stop offset="0%" stop-color="#FF7F00" />
+          <stop offset="100%" stop-color="#FF4500" />
         </linearGradient>
         
         <linearGradient id="cyberpunkGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#1E90FF" />
-          <stop offset="100%" stop-color="#87CEFA" />
+          <stop offset="0%" stop-color="#FF8C00" />
+          <stop offset="100%" stop-color="#FFA07A" />
         </linearGradient>
       </defs>
       

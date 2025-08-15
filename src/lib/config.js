@@ -1,8 +1,8 @@
 const mode = "mainnet";
-const status = "test";
+const status = "production";
 
 export default {
-    rpcUrl: mode === "mainnet" && status === "production" ? "https://api.corearena.xyz" : "http://localhost:443",
+    rpcUrl: mode === "mainnet" && status === "production" ? "https://api.coregen.cc" : "http://localhost:443",
     indexerUrl: mode === "mainnet" && status === "production" ? "http://localhost:444" : "http://localhost:444",
     chainId: mode === "mainnet"  ? "0x45c" : "",
     ethRpcUrl: mode === "mainnet"  ? "https://rpc.coredao.org" : "",

@@ -7,7 +7,7 @@
   let defaultDescription = "Core Gen is the permissionless Marketplace & Launchpad for NFTs";
   let defaultKeyword = "Core NFT Marketplace, Core NFT Launchpad, AI"
   // Base URL for your site
-  const baseUrl = "https://coregen.xyz";
+  const baseUrl = "https://coregen.cc";
 
   // Derive the full URL for the current page
   const url = derived(page, $page => `${baseUrl}${$page.url.pathname}`);

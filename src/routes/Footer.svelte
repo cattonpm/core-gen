@@ -64,10 +64,10 @@
         <span class=" ">
             Contact
         </span>
-        <span class="text-sm"> ...@gmail.com</span>
+        <span class="text-sm"> npmtns99@gmail.com</span>
     </div>
 
 </div>
 <div class="flex flex-wrap justify-center items-end text-lightGray lg:gap-[30px] gap-[10px] pb-2 z-30 ">
-    <span class="text-sm">&copy; 2025 coregen.xyz . All rights reserved.</span>
+    <span class="text-sm">&copy; 2025 coregen.cc . All rights reserved.</span>
 </div>
